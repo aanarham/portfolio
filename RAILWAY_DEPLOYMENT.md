@@ -3,8 +3,8 @@
 ## ✅ File Sudah Disiapkan
 
 Saya sudah membuat file-file yang diperlukan:
-- ✓ `Procfile` - Perintah untuk menjalankan aplikasi
-- ✓ `nixpacks.toml` - Konfigurasi Railway
+- ✓ `Dockerfile` - Container configuration untuk Railway
+- ✓ `railway.json` - Railway deployment settings
 - ✓ `composer.json` - Updated PHP version ke 8.1
 - ✓ `.env.example` - Template environment variables
 
